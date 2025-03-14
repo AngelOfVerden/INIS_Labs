@@ -1,0 +1,15 @@
+table {
+	width: 80%;
+	margin: 0px auto;
+}
+th {
+	padding: 20px;
+	text-align: center;
+	background-color: rgb(161, 161, 161);
+	border: 1px solid black;
+}
+td {
+	padding: 10px;
+	text-align: left;
+	border: 1px solid black;
+}
