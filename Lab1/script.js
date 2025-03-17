@@ -11,7 +11,7 @@ if (Math.floor(Math.random() * 2) == 0) {
 	alert('Прогуляйся и подумай еще раз!');
 }
 for (let i = 0; i < 3; i++) {
-	let title;
+	let title;//1
 	let rating;
 	while (true) {
 		title = prompt('Один из последних фильмов которые ты посмотрел?');
