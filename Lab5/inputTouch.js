@@ -118,7 +118,7 @@ window.onload = function () {
 			}
 		});
 
-		document.addEventListener('touchend', function (event) {
+		document.addEventListener('touchend', function (event) {//проверка наличиЯ второго пальца
 			if (isSecondFinger && (isDoubleTouchMove || isMove)) {
 				isDoubleTouchMove = false;
 				isMove = false;
