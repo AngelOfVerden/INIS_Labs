@@ -1,4 +1,4 @@
-export const shirts = [
+const shirts = [
 	{
 		name: 'Beep Boop',
 		description:

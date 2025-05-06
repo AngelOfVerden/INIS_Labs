@@ -1,5 +1,3 @@
-import { shirts } from './shirts.js';
-
 let field = document.querySelector('.field');
 console.log(field);
 shirts.forEach(shirt => {
